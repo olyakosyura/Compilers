@@ -1,0 +1,5 @@
+begin
+value1 = true ;
+blabla = -false ;
+value2 = value1 & true & false ! blabla & false
+end$
