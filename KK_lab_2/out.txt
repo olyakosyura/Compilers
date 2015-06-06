@@ -1,0 +1,43 @@
+12
+Xa X* *FT'E' E FT'E' X+ (E)T'E' X( +TE' TE' X) aT'E'
+5
+( ) * + a
+37
+Xa -> a
+X* -> *
+E -> (
+E -> ( +TE'
+E -> a
+E -> a *FT'E'
+E -> ( *FT'E'
+E -> a +TE'
+*FT'E' -> * aT'E'
+*FT'E' -> * *FT'E'
+*FT'E' -> * (E)T'E'
+*FT'E' -> *
+*FT'E' -> * +TE'
+FT'E' -> (
+FT'E' -> ( +TE'
+FT'E' -> a
+FT'E' -> a *FT'E'
+FT'E' -> ( *FT'E'
+FT'E' -> a +TE'
+X+ -> +
+X( -> (
++TE' -> +
++TE' -> + FT'E'
++TE' -> + +TE'
+TE' -> (
+TE' -> ( +TE'
+TE' -> a
+TE' -> a *FT'E'
+TE' -> ( *FT'E'
+TE' -> a +TE'
+(E)T'E' -> (
+(E)T'E' -> ( +TE'
+(E)T'E' -> ( *FT'E'
+aT'E' -> a *FT'E'
+aT'E' -> a
+aT'E' -> a +TE'
+X) -> )
+E
